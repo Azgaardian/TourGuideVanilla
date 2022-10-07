@@ -77,7 +77,7 @@ T Raptor Mastery (Part 2) |QID|195| |N|Hemet Nesingwary in Nesingwary's Expediti
 A Raptor Mastery (Part 3) |QID|196| |N|Hemet Nesingwary in Nesingwary's Expedition (35.62, 10.79)|
 T Hemet Nesingwary Jr. |QID|5762| |N|Hemet Nesingwary in Nesingwary's Expedition (35.62, 10.79)| |O|
 T Hunting in Stranglethorn |QID|5763| |N|Hemet Nesingwary in Nesingwary's Expedition (35.62, 10.79)| |O|
-A Panther Mastery |QID|192| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.59, 10.58)|
+A Panther Mastery (Part 3) |QID|192| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.59, 10.58)|
 
 C Singing Blue Shards |QID|605| |N|Find Crystal Spine Basilisk and collect some Singing Crystal Shard in The Savage Coast, tick this step if you can't find anymore crocs (24.22, 17.65)| |Z|Stranglethorn Vale|
 C Tiger Mastery (Part 4) |QID|188| |N|Kill Sin'Dall who is on top of a nearby hill and collect Paw of Sin'Dall (31.86, 17.32)|
