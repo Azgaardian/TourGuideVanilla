@@ -1,4 +1,4 @@
-TourGuide:RegisterGuide("Stranglethorn (46-47)" "Searing Gorge (46-47)", "Alliance", function()
+TourGuide:RegisterGuide("Stranglethorn Vale (46-47)", "Searing Gorge (46-47)", "Alliance", function()
 return [[
 
 R Booty Bay |QID|348| |N|Travel to Booty Bay (27.78, 77.07)|

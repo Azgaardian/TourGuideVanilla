@@ -1,4 +1,4 @@
-TourGuide:RegisterGuide("The Hinterlands (46-46)", "Stranglethorn (46-47)", "Alliance",function()
+TourGuide:RegisterGuide("The Hinterlands (46-46)", "Stranglethorn Vale (46-47)", "Alliance",function()
 
 
 return [[

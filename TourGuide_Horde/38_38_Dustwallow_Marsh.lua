@@ -1,4 +1,4 @@
-TourGuide:RegisterGuide("Dustwallow Marsh (38-38)", "Stranglethorn (38-40)", "Horde",function()
+TourGuide:RegisterGuide("Dustwallow Marsh (38-38)", "Stranglethorn Vale (38-40)", "Horde",function()
 
 return [[
 
