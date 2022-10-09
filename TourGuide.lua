@@ -238,8 +238,8 @@ function TourGuide:GetQuestLogIndexByName(name)
 	name = string.gsub(name,L.PART_GSUB, "")
 	for i=1,GetNumQuestLogEntries() do
 		local title, _, _, isHeader = GetQuestLogTitle(i)
-		local _, _, cuted = string.find(title,"^%[.+%]%s(.+)")
-		if not isHeader and (title == name or cuted == name) then return i end
+		title = string.gsub(title, "%[[0-9%+%-]+]%s", "")
+		if not isHeader and title == name then return i end
 	end
 end
 
@@ -302,7 +302,7 @@ function TourGuide:CompleteQuest(name, noupdate)
 		return
 	end
 
-	local i = self.current
+
 	local action, quest
 	for i in ipairs(self.actions) do
 		action, quest = self:GetObjectiveInfo(i)
