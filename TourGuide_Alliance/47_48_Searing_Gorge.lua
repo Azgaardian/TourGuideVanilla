@@ -74,7 +74,6 @@ R The Slag Pit |QID|7727| |N|Travel to The Slag Pit (44.23, 31.72)| |Z|Searing G
 C WANTED: Overseer Maltorius |QID|7701| |N|Kill Dark Iron Taskmaster and collect Head of Overseer Maltorius in The Slag Pit. This is a group quest, hard to solo and safe to skip (40.84, 35.82)| |Z|Searing Gorge|
 C What the Flux? |QID|7722| |N|Collect Secret Plans: Fiery Flux in The Slag Pit. If you can distract Dark Iron Taskmaster you can loot Secret Plans: Fiery Flux without killing him, safe to skip (40.51, 35.76)| |Z|Searing Gorge|
 T Dwarven Justice |QID|3371| |N|Dying Archaeologist in The Slag Pit (41.27, 25.51)| |Z|Searing Gorge|
---A Release Them |QID|3372| |N|Dying Archaeologist in The Slag Pit (41.27, 25.51)| |Z|Searing Gorge|
 C Forging the Shaft |QID|3443| |N|Kill Dark Iron Slaver or Dark Iron Taskmaster and collect 8 Thorium Plated Dagger in The Slag Pit (43.80, 31.92)| |Z|Searing Gorge|
 C JOB OPPORTUNITY: Culling the Competition |QID|7729| |N|Kill 15 Dark Iron Slaver and 15 Dark Iron Taskmaster in The Slag Pit (44.23, 31.72)| |Z|Searing Gorge|
 
