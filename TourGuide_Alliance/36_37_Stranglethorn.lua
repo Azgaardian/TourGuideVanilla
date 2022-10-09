@@ -87,7 +87,6 @@ C Bloodscalp Ears |QID|189| |N|Kill Bloodscalp trolls Tkashi Ruins and Bal'lal R
 
 R The Savage Coast |QID|578| |N|Travel to The Savage Coast (21.77, 22.04)| |Z|Stranglethorn Vale|
 C The Stone of the Tides |QID|578| |N|Locate the haunted island in The Savage Coast (21.77, 22.04)| |Z|Stranglethorn Vale|
-C Encrusted Tail Fins |QID|1107| |N|Kill Saltscale murlocs for 10 Encrusted Tail Fin in The Vile Reef (24.47, 24.72)| |Z|Stranglethorn Vale| |O|
 C Singing Blue Shards |QID|605| |N|Find Crystal Spine Basilisk and collect some Singing Crystal Shard in The Savage Coast, tick this step if you can't any crocs (24.22, 17.65)| |Z|Stranglethorn Vale|
 
 R Rebel Camp |QID|200| |N|Travel to Rebel Camp (40.65, 3.48) (40.56, 4.63) (38.24, 4.86)| |Z|Stranglethorn Vale|
@@ -120,11 +119,11 @@ R Rebel Camp |QID|331| |N|Travel to Rebel Camp (39.44, 7.08) (37.99, 3.43)| |Z|S
 T Supplies to Private Thorsen |QID|198| |N|Private Thorsen in Rebel Camp (37.99, 3.43)| |Z|Stranglethorn Vale|
 T The Spy Revealed! |QID|329| |N|Lieutenant Doren in Rebel Camp (38.05, 3.05)| |Z|Stranglethorn Vale| |PRE|200|
 A Patrol Schedules |QID|330| |N|Lieutenant Doren in Rebel Camp (38.05, 3.05)| |Z|Stranglethorn Vale| |PRE|200|
+T Special Forces |QID|574| |N|Lieutenant Doren in Rebel Camp (38.05, 3.05)| |Z|Stranglethorn Vale|
+A Colonel Kurzen |QID|202| |N|Lieutenant Doren in Rebel Camp (38.05, 3.05)| |Z|Stranglethorn Vale|
 T Patrol Schedules |QID|330| |N|Corporal Sethman in Rebel Camp (37.67, 3.39)| |Z|Stranglethorn Vale| |PRE|200|
 A Report to Doren |QID|331| |N|Corporal Sethman in Rebel Camp (37.67, 3.39)| |Z|Stranglethorn Vale| |PRE|200|
 T Report to Doren |QID|331| |N|Lieutenant Doren in Rebel Camp (38.04, 3.04)| |Z|Stranglethorn Vale| |PRE|200|
-T Special Forces |QID|574| |N|Lieutenant Doren in Rebel Camp (38.05, 3.05)| |Z|Stranglethorn Vale|
-A Colonel Kurzen |QID|202| |N|Lieutenant Doren in Rebel Camp (38.05, 3.05)| |Z|Stranglethorn Vale|
 
 R The Salty Sailor Tavern |QID|209| |N|Travel or Hearthstone to The Salty Sailor Tavern in Booty Bay (26.95, 77.23)| |Z|Stranglethorn Vale|
 T Investigate the Camp |QID|201| |N|Krazek in The Salty Sailor Tavern (26.95, 77.23)| |Z|Stranglethorn Vale|
@@ -138,15 +137,15 @@ A Goblin Sponsorship (Part 5) |QID|1183| |N|Baron Revilgaz in Booty Bay (27.20, 
 T Supply and Demand |QID|575| |N|Drizzlik in Booty Bay (28.29, 77.58)| |Z|Stranglethorn Vale|
 A Some Assembly Required |QID|577| |N|Drizzlik in Booty Bay (28.29, 77.58)| |Z|Stranglethorn Vale|
 T Singing Blue Shards |QID|605| |N|Crank Fizzlebub in The Salty Sailor Tavern (27.12, 77.21)| |Z|Stranglethorn Vale|
+N Karnitol's Satchel |QID|1457| |N|Withdraw Karnitol's Satchel from the bank. Tick this step (26.6 76.6)| |L|6245| |OO|
+N Kravel's Parts |QID|1112| |N|Store Kravel's Parts to the bank (26.6 76.6)| |L|5800| |O|
+N Fuel Regulator Blueprints |QID|1183| |N|Store Fuel Regulator Blueprints to the bank (26.6 76.6)| |L|5852| |O|
 
 R Hall of Explorers |QID|707| |N|Travel to Hall of Explorers in City of Ironforge (67.99, 17.61)| |Z|Ironforge|
 T The Karnitol Shipwreck (Part 4) |QID|1457| |N|Roetten Stonehammer in Hall of Explorers (67.99, 17.61)| |Z|Ironforge|
 A Ironband Wants You! |QID|707| |N|Prospector Stormpike in The Library (74.53, 11.86)| |Z|Ironforge|
 T Letter to Stormpike |QID|514| |N|Prospector Stormpike in The Library (74.59, 11.68)| |Z|Ironforge| |O|
-A Further Mysteries |QID|525| |N|Prospector Stormpike in The Library (74.59, 11.68)| |Z|Ironforge| |PRE|514|
-N Karnitol's Satchel |QID|1457| |N|Withdraw Karnitol's Satchel from the bank. Tick this step (35.48, 60.70)| |Z|Ironforge| |L|6245| |OO|
-N Kravel's Parts |QID|1112| |N|Store Kravel's Parts to the bank (35.48, 60.70)| |Z|Ironforge| |L|5800| |O|
-N Fuel Regulator Blueprints |QID|1183| |N|Store Fuel Regulator Blueprints to the bank (35.48, 60.70)| |Z|Ironforge| |L|5852| |O|
+A Further Mysteries |QID|525| |N|Prospector Stormpike in The Library (74.59, 11.68)| |Z|Ironforge| |PRE|514| |O|
 
 N Guide Complete |N|Tick to continue to the next guide|
 

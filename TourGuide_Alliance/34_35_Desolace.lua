@@ -91,7 +91,7 @@ T Claim Rackmore's Treasure! |QID|6161| |N|Rackmore's Chest in Ranazjar Isle (30
 R Ethel Rethor |QID|6027| |N|Travel to Ethel Rethor (41.07, 28.95)| |Z|Desolace|
 T Book of the Ancients |QID|6027| |N|Azore Aldamort in Ethel Rethor (41.07, 28.95) (38.89, 27.17)| |Z|Desolace|
 C Reagents for Reclaimers Inc. (Part 2) |QID|1459| |N|Finish collecting 7 Scorpashi Venom and 3 Aged Kodo Hide from Scorpashi creatures if you haven't already got them (69.8, 25.7) (73.5, 30.1)|
-C Raid on the Kolkar |QID|1384| |N|Collect 10 (tem:6079) from Kolkars in Kolkar Village (71.67, 41.56)| |Z|Desolace|
+C Raid on the Kolkar |QID|1384| |N|Collect 10 Crude Charm from Kolkars in Kolkar Village (71.67, 41.56)| |Z|Desolace|
 
 R Nijel's Point |TID|1459| |N|Travel or Hearthstone to Nijel's Point (66.20, 9.64)| |Z|Desolace| |U|6948|
 T Centaur Bounty |QID|1387| |N|Corporal Melkins in Nijel's Point (66.74, 10.90)| |Z|Desolace|

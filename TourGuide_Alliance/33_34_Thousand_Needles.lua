@@ -47,7 +47,6 @@ T Load Lightening |QID|1176| |N|Pozzik in Mirage Raceway (80.14, 75.83)| |Z|Thou
 A Goblin Sponsorship (Part 1) |QID|1178| |N|Pozzik in Mirage Raceway (80.14, 75.83)| |Z|Thousand Needles|
 T Hardened Shells |QID|1105| |N|Wizzle Brassbolts in Mirage Raceway (78.14, 77.13)| |Z|Thousand Needles|
 T Salt Flat Venom |QID|1104| |N|Fizzle Brassbolts in Mirage Raceway (78.06, 77.09)| |Z|Thousand Needles|
-A Encrusted Tail Fins |QID|1107| |N|Wizzle Brassbolts in Mirage Raceway (78.14, 77.12)| |Z|Thousand Needles|
 A Martek the Exiled |QID|1106| |N|Fizzle Brassbolts in Mirage Raceway (78.07, 77.11)| |Z|Thousand Needles|
 T Rocket Car Parts |QID|1110| |N|Kravel Koalbeard in Mirage Raceway (77.80, 77.23)| |Z|Thousand Needles|
 
