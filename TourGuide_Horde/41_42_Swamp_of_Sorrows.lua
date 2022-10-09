@@ -1,4 +1,4 @@
-TourGuide:RegisterGuide("Swamp of Sorrows (41-42)", "Stranglethorn (42-43)", "Horde",function()
+TourGuide:RegisterGuide("Swamp of Sorrows (41-42)", "Stranglethorn Vale (42-43)", "Horde",function()
 
 
 return [[

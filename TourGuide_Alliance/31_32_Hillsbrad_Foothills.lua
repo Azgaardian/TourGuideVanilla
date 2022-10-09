@@ -1,4 +1,4 @@
-TourGuide:RegisterGuide("Hillsbrad Foothills (31-32)", "Stranglethorn (32-33)", "Alliance",function()
+TourGuide:RegisterGuide("Hillsbrad Foothills (31-32)", "Stranglethorn Vale (32-33)", "Alliance",function()
 
 return [[
 

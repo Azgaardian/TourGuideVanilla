@@ -1,4 +1,4 @@
-TourGuide:RegisterGuide("Arathi Highlands (30-30)", "Stranglethorn (30-31)", "Horde",function()
+TourGuide:RegisterGuide("Arathi Highlands (30-30)", "Stranglethorn Vale (30-31)", "Horde",function()
 
 return [[
 

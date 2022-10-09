@@ -1,4 +1,4 @@
-TourGuide:RegisterGuide("Stranglethorn (39-40)", "Badlands (40-41)", "Alliance", function()
+TourGuide:RegisterGuide("Stranglethorn Vale (39-40)", "Badlands (40-41)", "Alliance", function()
 
 return [[
 R Booty Bay |QID|606| |N|Travel to Booty Bay (28.08, 76.19)|

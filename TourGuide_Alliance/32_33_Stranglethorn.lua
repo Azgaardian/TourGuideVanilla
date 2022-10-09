@@ -1,4 +1,4 @@
-TourGuide:RegisterGuide("Stranglethorn (32-33)", "Thousand Needles (33-34)", "Alliance",function()
+TourGuide:RegisterGuide("Stranglethorn Vale (32-33)", "Thousand Needles (33-34)", "Alliance",function()
 
 return [[
 

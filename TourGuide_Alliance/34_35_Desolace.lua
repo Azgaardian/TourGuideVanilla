@@ -1,4 +1,4 @@
-TourGuide:RegisterGuide("Desolace (34-35)", "Stranglethorn (36-37)", "Alliance",function()
+TourGuide:RegisterGuide("Desolace (34-35)", "Stranglethorn Vale (36-37)", "Alliance",function()
 
 return [[
 
