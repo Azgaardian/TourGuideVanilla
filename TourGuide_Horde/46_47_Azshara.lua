@@ -33,7 +33,7 @@ N Field Testing Kit |QID|243| |N|Store Field Testing Kit at the bank. Tick this 
 N Box of Empty Vials |QID|3568| |N|Store Box of Empty Vials at the bank. Tick this step (66.0, 45.2)| |Z|Undercity| |L|10695| |O| 
 N Bundle of Atal'ai Artifacts |QID|1429| |N|Withdraw Bundle of Atal'ai Artifacts at the bank. Tick this step (66.0, 45.2)| |Z|Undercity| |L|6193| |OO| 
 N Nimboya's Pike |QID|2932| |N|Withdraw Nimboya's Pike at the bank. Tick this step (66.0, 45.2)| |Z|Undercity| |L|15002| |OO| 
- 
+
 N Guide Complete |N|Tick to continue to the next guide| 
 
 ]]

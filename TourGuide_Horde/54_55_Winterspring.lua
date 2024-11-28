@@ -16,7 +16,7 @@ N Moontouched Feather |QID|978| |N|Collect Moontouched Feather from the ground n
 
 R Everlook |QID|3783| |N|Travel to Everlook (61.60, 38.62)| |Z|Winterspring| 
 T Felnok Steelspring |QID|4808| |N|Felnok Steelspring in Everlook (61.60, 38.62)| |Z|Winterspring| |O| 
---A Trouble in Winterspring! |QID|6603| |N|Meggi Peppinrocker in Everlook (61.23, 38.34)| |Z|Winterspring| 
+A Trouble in Winterspring! |QID|6603| |N|Meggi Peppinrocker in Everlook (61.23, 38.34)| |Z|Winterspring| 
 A Are We There, Yeti? |QID|3783| |N|Umi Rumplesnicker in Everlook (60.9, 37.6)| |Z|Winterspring| 
 h Everlook |QID|5245| |N|Speak to Innkeeper Vizzie and set hearth in Everlook (61.36, 38.83)| |Z|Winterspring| 
 f Everlook |QID|3783| |N|Speak to Yugrek grab flight for Everlook (60.47, 36.30)| |Z|Winterspring| 
@@ -47,7 +47,7 @@ N Empty Firewater Flask |QID|5083| |N|Collect Empty Firewater Flask from Winterf
 A Winterfall Firewater |QID|5083| |N|Use Empty Firewater Flask to accept quest| |Z|Winterspring| |U|12771|
 
 R Frostfire Hot Springs |QID|5082| |N|Travel to Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring| |REACH|
---T Trouble in Winterspring! |QID|6603| |N|Donova Snowden in Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring| 
+T Trouble in Winterspring! |QID|6603| |N|Donova Snowden in Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring| 
 T Strange Sources |QID|4842| |N|Donova Snowden in Frostfire Hot Springs (31.27, 45.17)| |Z|Winterspring| |PRE|980| 
 A Falling to Corruption |QID|5084| |N|Donova Snowden in Frostfire Hot Springs (31.27, 45.17)| |Z|Winterspring| 
 T Threat of the Winterfall |QID|5082| |N|Donova Snowden in Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring| 
@@ -80,7 +80,3 @@ N Guide Complete |N|Tick to continue to the next guide|
 
 ]]
 end)
-
-
-
-

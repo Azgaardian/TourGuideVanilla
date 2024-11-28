@@ -93,7 +93,7 @@ A Jammal'an the Prophet |QID|1446| |N|Atal'ai Exile in Shadra'Alor (33.74, 75.16
 
 R Tarren Mill |QID|2934| |N|Travel to Tarren Mill (61.46, 19.15)| |Z|Hillsbrad Foothills| 
 T Undamaged Venom Sac |QID|2934| |N|Apothecary Lydon in Tarren Mill (61.47, 19.10)| |Z|Hillsbrad Foothills| 
---A Consult Master Gadrin |QID|2935| |N|Apothecary Lydon in Tarren Mill (61.47, 19.10)| |Z|Hillsbrad Foothills| 
+A Consult Master Gadrin |QID|2935| |N|Apothecary Lydon in Tarren Mill (61.47, 19.10)| |Z|Hillsbrad Foothills| 
 
 R Undercity |QID|2782| |N|Travel to Magic Quarter in Undercity (73.09, 32.77)| |Z|Undercity|
 N Dran's Ripple Delivery |QID|81| |N|Store Dran's Ripple Delivery at the bank. Tick this step (66.0, 45.2)| |Z|Undercity| |L|8685| |O| 
@@ -110,7 +110,3 @@ N Guide Complete |N|Tick to continue to the next guide|
 
 ]]
 end)
-
-
-
-

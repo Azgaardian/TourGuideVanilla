@@ -177,8 +177,8 @@ A Gathering the Cure |QID|6128| |N|Tonga Runetotem in The Crossroads (52.25, 31.
 
 N As you go... |AYG|870| |QID|845| |N|<b>Kill Zhevra Runner for 4 Zhevra Hooves<br/><b>Kill any raptors for 12 Raptor Head<br/><b>Kill Lost Barrens Kodo and collect 5 Kodo Horn| |C|Druid|
 N As you go... |AYG|870| |QID|845| |N|<b>Kill Zhevra Runner for 4 Zhevra Hooves<br/><b>Kill any raptors for 12 Raptor Head| |C|Warrior, Hunter, Mage, Warlock, Druid, Priest, Shaman, Rogue|
-A Kolkar Leaders |QID|850| |N|Regthar Deathgate in The Barrens (45.33, 28.45)|
-A Centaur Bracers |QID|855| |N|Regthar Deathgate in The Barrens (45.33, 28.45)|
+A Kolkar Leaders |QID|850| |N|Regthar Deathgate in the bunkers west of The Crossroads (45.33, 28.45)|
+A Centaur Bracers |QID|855| |N|Regthar Deathgate in the bunkers west of The Crossroads (45.33, 28.45)|
 
 R The Forgotten Pools |QID|870| |N|Travel to The Forgotten Pools (44.99, 24.09)|
 C The Forgotten Pools |QID|870| |N|Swim to the bubble in the middle of the pool in The Forgotten Pools (44.99, 22.5)|
@@ -192,9 +192,9 @@ C Centaur Bracers |QID|855| |N|Kill Kolkar enemies and collect 15 Centaur Bracer
 R The Dry Hills |QID|867| |N|Travel to The Dry Hills (40.38, 17.87)| |Z|The Barrens|
 C Harpy Raiders |QID|867| |N|Kill Witchwing enemies and collect 8 Witchwing Talon in the northwest corner of the Barrens (38, 17)|
 
-T Kolkar Leaders |QID|850| |N|Regthar Deathgate in The Barrens (45.33, 28.45)|
-A Verog the Dervish |QID|851| |N|Regthar Deathgate in The Barrens (45.33, 28.45)|
-T Centaur Bracers |QID|855| |N|Regthar Deathgate in The Barrens (45.33, 28.45)|
+T Kolkar Leaders |QID|850| |N|Regthar Deathgate in the bunkers west of The Crossroads (45.33, 28.45)|
+A Verog the Dervish |QID|851| |N|Regthar Deathgate in the bunkers west of The Crossroads (45.33, 28.45)|
+T Centaur Bracers |QID|855| |N|Regthar Deathgate in the bunkers west of The Crossroads (45.33, 28.45)|
 
 R The Barrens |QID|867| |N|Travel to The Barrens (42.87, 23.52)|
 C The Zhevra |QID|845| |N|Kill Zhevra Runner for 4 Zhevra Hooves in The Barrens (45.79, 30.02)|
@@ -315,8 +315,8 @@ A Echeyakee |QID|881| |N|Sergra Darkthorn in The Crossroads (52.21, 30.99)|
 A Report to Kadrak |QID|6541| |N|Thork in The Crossroads (51.53, 30.85)|
 T Harpy Lieutenants |QID|875| |N|Darsok Swiftdagger in The Crossroads (51.64, 30.92)|
 A Serena Bloodfeather |QID|876| |N|Darsok Swiftdagger in The Crossroads (51.64, 30.92)|
-T Verog the Dervish |QID|851| |N|Regthar Deathgate in The Barrens (45.33, 28.45)|
-A Hezrul Bloodmark |QID|852| |N|Regthar Deathgate in The Barrens (45.33, 28.45)|
+T Verog the Dervish |QID|851| |N|Regthar Deathgate in the bunkers west of The Crossroads (45.33, 28.45)|
+A Hezrul Bloodmark |QID|852| |N|Regthar Deathgate in the bunkers west of The Crossroads (45.33, 28.45)|
 
 R The Dry Hills |QID|876| |N|Travel to The Dry Hills (39.46, 12.38)|
 C Serena Bloodfeather |QID|876| |N|Kill Serena Bloodfeather in the northwest part of the Barrens in The Dry Hills (39.46, 12.38)|
@@ -396,7 +396,7 @@ A Free From the Hold |QID|898| |N|Gilthares Firebough in Northwatch Hold (61.94,
 C Free From the Hold |QID|898| |N|Safely escort Gilthares Firebough back to Captain Brightsun in Ratchet. This can be difficult to solo. Safe to skip if you fail (62.32, 39.20)|
 T Free From the Hold |QID|898| |N|Captain Thalo'thas Brightsun in Ratchet (62.29, 39.07)|
 T The Guns of Northwatch |QID|891| |N|Captain Thalo'thas Brightsun in Ratchet (62.28, 39.07)|
-T Hezrul Bloodmark |QID|852| |N|Regthar Deathgate in The Barrens (45.33, 28.44)|
+T Hezrul Bloodmark |QID|852| |N|Regthar Deathgate in the bunkers west of The Crossroads (45.33, 28.44)|
 
 N Level 20 Required |N|You should be close to level 20, grind nearby mobs to reach level 20|
 

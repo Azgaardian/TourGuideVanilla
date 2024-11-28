@@ -36,7 +36,7 @@ R Rage Scar Hold |QID|7734| |N|Travel to Rage Scar Hold (48.29, 44.62) (48.43, 3
 C Improved Quality |QID|7734| |N|Kill the Yetis and collect 10 Rage Scar Yeti Hide in Rage Scar Hold (53.24, 31.83)| |Z|Feralas|  
 K Rage Scar Yeti |QID|7738| |N|Keep killing Rage Scar Yeti until you collect Perfect Yeti Hide for accept a new quest (52.38, 31.74)|  |L|18972| 
 A Perfect Yeti Hide |QID|7738| |N|Use Perfect Yeti Hide to accept quest| |Z|Feralas| |O| 
- 
+
 R Ruins of Ravenwind |QID|3062| |N|Travel to Ruins of Ravenwind (48.33, 23.82) (44.35, 22.14) (40.01, 13.58)| |Z|Feralas|
 K Northspring Windcaller |QID|3062| |N|Kill Northspring Windcaller and collect a Horn of Hatetalon (38.80, 13.50)| |Z|Feralas|  |L|9530| 
 C Dark Heart |QID|3062| |N|Use Horn of Hatetalon between the two stones in Ruins of Ravenwind to summon and kill Edana Hatetalon, collect Edana's Dark Heart (40.51, 8.66)| |Z|Feralas| |U|9530| 

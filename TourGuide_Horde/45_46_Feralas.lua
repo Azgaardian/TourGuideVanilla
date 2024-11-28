@@ -79,7 +79,7 @@ A The Gordunni Orb |QID|3002| |N|Rok Orhan in Camp Mojache (76.52, 43.20)| |Z|Fe
 
 R Orgrimmar |QID|649| |N|Travel to Orgrimmar (56.36, 46.60)| |Z|Orgrimmar|
 N Yeh'kinya's Bramble |QID|3520| |N|Store Yeh'kinya's Bramble in the bank . Tick this step (49.6, 69.4)| |Z|Orgrimmar| |L|10699| |O|
-N Jeweled Pendant |QID|1262| |N|Withdraw Jeweled Pendant in the bank . Tick this step (49.6, 69.4)| |Z|Orgrimmar| |L|5942| |OO|
+N Jeweled Pendant |QID|1262| |N|Withdraw Jeweled Pendant in the bank . Tick this step (49.6, 69.4)| |Z|Orgrimmar| |L|5942| |O|
 
 T Zukk'ash Report |QID|7732| |N|Zilzibin Drumlore in The Drag (56.36, 46.60)| |Z|Orgrimmar|
 A Ripple Recovery |QID|649| |N|Dran Droffers in The Drag (59.76, 37.00)| |Z|Orgrimmar|
@@ -117,7 +117,7 @@ C Natural Materials |QID|3128.4| |N|Kill Frayfeather Stagwing or Frayfeather Hip
 K Wandering Forest Walker |QID|3128.1| |N|Kill Wandering Forest Walker and collect 2 Splintered Log in Feralas, Wandering Forest Walker only spawn in 4 possible locations with 5 mins respawn time, tick this step after you kill one and check again later (73.9, 38.8) (73.5, 54.5)|
 A Perfect Yeti Hide |QID|7738| |N|Use Perfect Yeti Hide to accept quest (49.09, 47.33)| |Z|Feralas| |U|18972| |O|
 T Perfect Yeti Hide |QID|7738| |N|Jangdor Swiftstrider in Camp Mojache (74.43, 42.92)| |Z|Feralas| |O|
-T Natural Materials |QID|3128| |N|Witch Doctor Uzer'i in Camp Mojache (74.42, 43.36)| |Z|Feralas|
+T Natural Materials |QID|3128| |N|Witch Doctor Uzer'i in Camp Mojache (74.42, 43.36)| |Z|Feralas| 
 
 N Guide Complete |N|Tick to continue to the next guide|
 

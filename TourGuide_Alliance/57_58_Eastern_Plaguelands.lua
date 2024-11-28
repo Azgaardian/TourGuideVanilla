@@ -41,7 +41,6 @@ T Duke Nicholas Zverenhoff |QID|6030| |N|Duke Nicholas Zverenhoff in Light's Hop
 T Uncle Carlin |QID|5241| |N|Carlin Redpath in Light's Hope Chapel (81.50, 59.84)| |Z|Eastern Plaguelands| 
 A Defenders of Darrowshire |QID|5211| |N|Carlin Redpath in Light's Hope Chapel (81.50, 59.84)| |Z|Eastern Plaguelands| 
 f Light's Hope Chapel |QID|5542| |N|Speak to Khaelyn Steelwing and grab flight path for Light's Hope Chapel (81.62, 59.32)| |Z|Eastern Plaguelands| 
---h Light's Hope Chapel |QID|5542| |N|Speak to Jessica Chambers and set hearth in Light's Hope Chapel (81.60, 58.09)| |Z|Eastern Plaguelands| 
 
 N As you go... |AYG|5544| |QID|5544| |N|Kill the required Plaguehound, Frenzied Plaguehound, Carrion Grub in any order|
 K Plaguehound |QID|5542.2| |N|Kill 5 Plaguehound in Eastern Plaguelands (79.18, 68.76) (70.90, 71.41) (64.97, 62.50) (72.41, 54.10)| |Z|Eastern Plaguelands|  
@@ -92,16 +91,14 @@ R Light's Hope Chapel |TID|6021| |N|Travel to Light's Hope Chapel (79.66, 63.62)
 T Zaeldarr the Outcast |QID|6021| |N|Caretaker Alen in Light's Hope Chapel (79.66, 63.62)| |Z|Eastern Plaguelands| 
 T Defenders of Darrowshire |QID|5211| |N|Carlin Redpath in Light's Hope Chapel (81.50, 59.79)| |Z|Eastern Plaguelands| 
 A Cryptstalker Armor Doesn't Make Itself... |QID|9124| |N|Huntsman Leopold in Light's Hope Chapel (81.51, 58.52)| |Z|Eastern Plaguelands| |L|22525 30| |O| 
---C Cryptstalker Armor Doesn't Make Itself... |QID|9124| |N|Kill Crypt spiders for 30 Crypt Fiend Parts in Terrorweb Tunnel (7.06, 41.39)| |O| 
+C Cryptstalker Armor Doesn't Make Itself... |QID|9124| |N|Kill Crypt spiders for 30 Crypt Fiend Parts in Terrorweb Tunnel (7.06, 41.39)| |O| 
 T Cryptstalker Armor Doesn't Make Itself... |QID|9124| |N|Huntsman Leopold in Light's Hope Chapel (81.51, 58.52)| |Z|Eastern Plaguelands| |L|22525 30| |O| 
 A Bonescythe Digs |QID|9126| |N|Rohan the Assassin in Light's Hope Chapel (81.44, 58.50)| |Z|Eastern Plaguelands| |L|22526 30| |O| 
 T Bonescythe Digs |QID|9126| |N|Rohan the Assassin in Light's Hope Chapel (81.44, 58.50)| |Z|Eastern Plaguelands| |L|22526 30| |O| 
 
 T Minion's Scourgestones |QID|5510| |N|Duke Nicholas Zverenhoff in Light's Hope Chapel (81.43, 59.84)| |Z|Eastern Plaguelands| |L|12840 20| |O| 
 T Corruptor's Scourgestones |QID|5508| |N|Duke Nicholas Zverenhoff in Light's Hope Chapel (81.43, 59.84)| |Z|Eastern Plaguelands| |L|12843| |O| 
-T Invader's Scourgestones |QID|5509| |N|Duke Nicholas Zverenhoff in Light's Hope Chapel (81.43, 59.84)| |Z|Eastern Plaguelands| |L|12841 10| |O| 
---A They Call Me "The Rooster" |QID|9141| |N|Dispatch Commander Metz in Light's Hope Chapel (81.01, 57.56)| |Z|Eastern Plaguelands| |L|12844| |O| 
---T They Call Me "The Rooster" |QID|9141| |N|Dispatch Commander Metz in Light's Hope Chapel (81.01, 57.56)| |Z|Eastern Plaguelands| |L|12844| |O| 
+T Invader's Scourgestones |QID|5509| |N|Duke Nicholas Zverenhoff in Light's Hope Chapel (81.43, 59.84)| |Z|Eastern Plaguelands| |L|12841 10| |O|
 
 R Northdale |QID|5845| |N|Travel to Northdale (71.28, 33.97)| |Z|Eastern Plaguelands|
 C Of Lost Honor |QID|5845| |N|Collect Symbol of Lost Honor in the middle of the lake in Northdale (71.28, 33.97)| |Z|Eastern Plaguelands|

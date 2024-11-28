@@ -73,10 +73,10 @@ T Badlands Reagent Run |QID|2258| |N|Jarkal Mossmeld in Kargath (2.5, 46.1)|
 R Valley of Fangs |TID|703| |N|Travel to Valley of Fangs (42.38, 52.83)| |Z|Badlands|
 T Barbecued Buzzard Wings |QID|703| |N|Rigglefuzz in Valley of Fangs (42.38, 52.83)| |Z|Badlands| 
 
---H Grom'gol Base Camp |U|6948| |QID|1372|
---T The Green Hills of Stranglethorn |Z|Stranglethorn Vale| |QID|338| |N|Barnil Stonepot (35.7, 10.5)| |O| 
---A Nothing But The Truth (Part 1) |Z|Duskwood| |QID|1372| |N|Apothecary Faustin (87.0, 36.4)| 
---T Nothing But The Truth (Part 1) |Z|Duskwood| |QID|1372| |N|Deathstalker Zraedus (87.7, 35.7)| 
+H Grom'gol Base Camp |U|6948| |QID|1372|
+T The Green Hills of Stranglethorn |Z|Stranglethorn Vale| |QID|338| |N|Barnil Stonepot (35.7, 10.5)| |O| 
+A Nothing But The Truth (Part 1) |Z|Duskwood| |QID|1372| |N|Apothecary Faustin (87.0, 36.4)| 
+T Nothing But The Truth (Part 1) |Z|Duskwood| |QID|1372| |N|Deathstalker Zraedus (87.7, 35.7)| 
 
 N Guide Complete |N|Tick to continue to the next guide| 
 ]]

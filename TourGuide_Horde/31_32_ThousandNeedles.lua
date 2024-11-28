@@ -4,8 +4,8 @@ return [[
 
 R The Crossroads |OID|1362| |N|Travel to The Crossroads (51.09, 29.59)| |Z|The Barrens|
 A The Swarm Grows (Part 1) |QID|1145| |N|Korran in The Crossroads (51.09, 29.59)| |Z|The Barrens|
-T Regthar Deathgate |QID|1361| |N|Regthar Deathgate in The Crossroads (45.34, 28.43)| |Z|The Barrens| |O|
-A The Kolkar of Desolace |QID|1362| |N|Regthar Deathgate in The Crossroads (45.34, 28.43)| |Z|The Barrens| |PRE|1361|
+T Regthar Deathgate |QID|1361| |N|Regthar Deathgate in the bunkers west of The Crossroads (45.34, 28.43)| |Z|The Barrens| |O|
+A The Kolkar of Desolace |QID|1362| |N|Regthar Deathgate in the bunkers west of The Crossroads (45.34, 28.43)| |Z|The Barrens| |PRE|1361|
 
 R Mirage Raceway |QID|1175| |N|Travel to Mirage Raceway (77.82, 77.18)|
 A A Bump in the Road |QID|1175| |N|Trackmaster Zherin in Mirage Raceway (81.59, 77.86)|

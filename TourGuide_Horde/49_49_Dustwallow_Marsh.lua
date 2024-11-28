@@ -1,4 +1,4 @@
-TourGuide:RegisterGuide("Dustwallow Marsh (49-49)", "Tanaris (49-50)", "Horde",function()
+TourGuide:RegisterGuide("Dustwallow Marsh (49-49)", "Feralas (49-50)", "Horde",function()
 
 
 return [[

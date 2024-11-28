@@ -58,9 +58,9 @@ N Deepstrider Tumor |QID|1383| |N|Withdraw Deepstrider Tumor from the bank. Tick
 
 A Stranglethorn Fever |QID|348| |N|Fin Fizracket in Booty Bay (27.63, 76.75)| |Z|Stranglethorn Vale| 
 
---A Cracking Maury's Foot |QID|613| |N|\Sea Wolf\ MacKinley in Booty Bay (27.78, 77.15)| |Z|Stranglethorn Vale| 
---A Zanzil's Mixture and a Fool's Stout |QID|1119| |N|Crank Fizzlebub in The Salty Sailor Tavern (27.11, 77.26)| |Z|Stranglethorn Vale| 
---A Whiskey Slim's Lost Grog |QID|580| |N|Whiskey Slim in The Salty Sailor Tavern (27.12, 77.43)| |Z|Stranglethorn Vale| 
+A Cracking Maury's Foot |QID|613| |N|\Sea Wolf\ MacKinley in Booty Bay (27.78, 77.15)| |Z|Stranglethorn Vale| 
+A Zanzil's Mixture and a Fool's Stout |QID|1119| |N|Crank Fizzlebub in The Salty Sailor Tavern (27.11, 77.26)| |Z|Stranglethorn Vale| 
+A Whiskey Slim's Lost Grog |QID|580| |N|Whiskey Slim in The Salty Sailor Tavern (27.12, 77.43)| |Z|Stranglethorn Vale| 
 
 R Mistvale Valley |QID|348| |N|Travel to Mistvale Valley (33.69, 65.08)| |Z|Stranglethorn Vale| 
 N 10 Gorilla Fang |QID|348| |N|Kill Elder Mistvale Gorilla until you collect 10 Gorilla Fang for the quest 'Strangelthorn Fever' in Mistvale Valley (33.69, 65.08)| |Z|Stranglethorn Vale| |L|2799 10| 
@@ -107,7 +107,3 @@ N Guide Complete |N|Tick to continue to the next guide|
 
 ]]
 end)
-
-
-
-
